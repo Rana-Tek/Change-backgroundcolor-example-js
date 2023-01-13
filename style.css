@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+button {
+    margin-top: 50vh;
+    position:absolute;
+    right: 50vw;
+ }
+
+ body{
+    background-color: blueviolet;
+ }
